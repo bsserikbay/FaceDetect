@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "a03dce5734a945f18f6cf074809e4dce  \"C:\\Users\\Serik_Serikbayev\\Pictures\\istockphoto.jpg\""
+    }
+  }
+}
